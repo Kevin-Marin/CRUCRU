@@ -18,4 +18,4 @@ app.use("/aeroporto", aeroporto_router);
 
 
 
-app.listen(port, () => console.log(`Server running in ${porta} port.`));
+app.listen(port, () => console.log(`Server running in ${port} port.`));
